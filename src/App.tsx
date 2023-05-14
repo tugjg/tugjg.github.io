@@ -1,8 +1,9 @@
-function App() {
+import HomePage from "./features/home-page/components/Index";
 
+function App() {
   return (
-    <div >
-      WIP
+    <div>
+      <HomePage />
     </div>
   );
 }
